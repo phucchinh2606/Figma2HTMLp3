@@ -776,3 +776,21 @@ button {
   line-height: 1.86; /* 185.714% */
   padding: 28px 0 42px;
 }
+
+/* animation */
+.work .section-heading {
+  /* animation-iteration-count: infinite; */
+}
+
+/* aos */
+[data-aos] {
+  visibility: hidden;
+}
+[data-aos].animate__animated {
+  visibility: visible;
+}
+
+.work .section-heading {
+  animation-iteration-count: infinite;
+  animation-delay: 2s;
+}
