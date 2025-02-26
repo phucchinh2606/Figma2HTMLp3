@@ -778,9 +778,9 @@ button {
 }
 
 /* animation */
-.work .section-heading {
-  /* animation-iteration-count: infinite; */
-}
+/* .work .section-heading {
+  animation-iteration-count: infinite;
+} */
 
 /* aos */
 [data-aos] {
